@@ -8,7 +8,7 @@ permalink: /privacy/
 [Türkçe](../gizlilik/) · [Terms of Use](../terms/) · [Support](../#english)
 
 **Effective date:** 24 November 2026<br>
-**Publisher (data controller):** Raşit Şahin, Türkiye<br>
+**Publisher (data controller):** Sema Şahin for the App Store version; Raşit Şahin for the Google Play version, Türkiye<br>
 **Contact:** <semasahin3527@gmail.com>
 
 This policy explains what information the mobile game Uç Beyi: Osmanlı Strateji (titled Devlet-i Aliyye in the game; the "Game") keeps,
@@ -118,4 +118,4 @@ changes (for example a new service is added), we will also say so in that update
 
 ## 11. Contact
 
-Raşit Şahin · Türkiye · <semasahin3527@gmail.com>
+Publisher (data controller): Sema Şahin for the App Store version; Raşit Şahin for the Google Play version, Türkiye · <semasahin3527@gmail.com>

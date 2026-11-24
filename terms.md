@@ -8,7 +8,7 @@ permalink: /terms/
 [Türkçe](../sartlar/) · [Privacy Policy](../privacy/) · [Support](../#english)
 
 **Effective date:** 24 November 2026<br>
-**Publisher:** Raşit Şahin, Türkiye · **Contact:** <semasahin3527@gmail.com>
+**Publisher:** Sema Şahin for the App Store version; Raşit Şahin for the Google Play version, Türkiye · **Contact:** <semasahin3527@gmail.com>
 
 By downloading or using the mobile game Uç Beyi: Osmanlı Strateji (titled Devlet-i Aliyye in the game; the "Game") you accept these terms. If
 you do not accept them, do not use the Game. If you downloaded the Game from the App Store, Apple's standard Licensed Application End User
@@ -102,4 +102,4 @@ applicable law.
 
 ## 9. Contact
 
-Raşit Şahin · Türkiye · <semasahin3527@gmail.com>
+Publisher: Sema Şahin for the App Store version; Raşit Şahin for the Google Play version, Türkiye · <semasahin3527@gmail.com>

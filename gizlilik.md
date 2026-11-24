@@ -8,7 +8,7 @@ permalink: /gizlilik/
 [English version](../privacy/) · [Kullanım Şartları](../sartlar/) · [Destek](../)
 
 **Yürürlük tarihi:** 24 Kasım 2026<br>
-**Yayıncı (veri sorumlusu):** Raşit Şahin, Türkiye<br>
+**Yayıncı (veri sorumlusu):** App Store sürümü için Sema Şahin; Google Play sürümü için Raşit Şahin, Türkiye<br>
 **İletişim:** <semasahin3527@gmail.com>
 
 Bu politika, Uç Beyi: Osmanlı Strateji mobil oyununun (oyun içindeki adıyla Devlet-i Aliyye; "Oyun") hangi bilgileri nerede tuttuğunu ve
@@ -119,4 +119,4 @@ eklenirse) bunu o güncellemenin mağaza sürüm notunda da yazarız.
 
 ## 11. İletişim
 
-Raşit Şahin · Türkiye · <semasahin3527@gmail.com>
+Yayıncı (veri sorumlusu): App Store sürümü için Sema Şahin; Google Play sürümü için Raşit Şahin, Türkiye · <semasahin3527@gmail.com>

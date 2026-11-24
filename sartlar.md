@@ -8,7 +8,7 @@ permalink: /sartlar/
 [English version](../terms/) · [Gizlilik Politikası](../gizlilik/) · [Destek](../)
 
 **Yürürlük tarihi:** 24 Kasım 2026<br>
-**Yayıncı:** Raşit Şahin, Türkiye · **İletişim:** <semasahin3527@gmail.com>
+**Yayıncı:** App Store sürümü için Sema Şahin; Google Play sürümü için Raşit Şahin, Türkiye · **İletişim:** <semasahin3527@gmail.com>
 
 Uç Beyi: Osmanlı Strateji (oyun içindeki adıyla Devlet-i Aliyye; "Oyun") mobil oyununu indirerek ya da kullanarak bu şartları kabul etmiş
 olursun. Kabul etmiyorsan Oyun'u kullanma. Oyun'u App Store'dan indirdiysen Apple'ın standart son kullanıcı lisans sözleşmesi (Licensed
@@ -100,4 +100,4 @@ uyuşmazlıklarında yürürlükteki mevzuata göre yetkili Tüketici Hakem Heye
 
 ## 9. İletişim
 
-Raşit Şahin · Türkiye · <semasahin3527@gmail.com>
+Yayıncı: App Store sürümü için Sema Şahin; Google Play sürümü için Raşit Şahin, Türkiye · <semasahin3527@gmail.com>

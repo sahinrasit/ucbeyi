@@ -58,7 +58,7 @@ Künye → Bildirimler → **"Oyun verisi paylaş"** anahtarını kapat. Ne gön
 - [Gizlilik Politikası](gizlilik/) · [Privacy Policy](privacy/)
 - [Kullanım Şartları](sartlar/) · [Terms of Use](terms/)
 
-Yayıncı: Raşit Şahin · Türkiye · <semasahin3527@gmail.com>
+Yayıncı: App Store sürümü için Sema Şahin; Google Play sürümü için Raşit Şahin, Türkiye · <semasahin3527@gmail.com>
 
 ---
 
@@ -83,4 +83,4 @@ without any purchase.
 
 Documents: [Privacy Policy](privacy/) · [Terms of Use](terms/)
 
-Publisher: Raşit Şahin · Türkiye · <semasahin3527@gmail.com>
+Publisher: Sema Şahin for the App Store version; Raşit Şahin for the Google Play version, Türkiye · <semasahin3527@gmail.com>
