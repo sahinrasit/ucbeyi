@@ -1,10 +1,12 @@
 ---
 title: Destek
+permalink: /destek/
+description: "Uç Beyi: Osmanlı Strateji destek sayfası: sık sorulanlar ve iletişim."
 ---
 
 # Uç Beyi: Osmanlı Strateji — Destek
 
-[Gizlilik Politikası](gizlilik/) · [Kullanım Şartları](sartlar/) · [English](#english)
+[Gizlilik Politikası](../gizlilik/) · [Kullanım Şartları](../sartlar/) · [English](#english)
 
 **Uç Beyi: Osmanlı Strateji** (oyun içindeki adıyla **Devlet-i Aliyye**), iPhone ve Android için tek oyunculu bir strateji oyunudur:
 küçük bir uç beyliği kurar, köyünü kasabaya, kasabanı şehre, beyliğini bir cihan devletine büyütürsün. Oyun hesap açtırmaz, reklam
@@ -37,7 +39,7 @@ bulabiliriz; adını ya da e-postanı bilmemize gerek yoktur.
 - Oyunda: Hazine → Berat sekmesi → **"Abonelikleri yönet"** aynı sayfayı açar.
 
 Abonelik, dönemin bitiminden en az 24 saat önce iptal edilmezse kendiliğinden yenilenir. İptal o dönemin sonunda geçerli olur.
-Uygulamayı silmek aboneliği iptal etmez. Ayrıntı: [Kullanım Şartları § 4](sartlar/).
+Uygulamayı silmek aboneliği iptal etmez. Ayrıntı: [Kullanım Şartları § 4](../sartlar/).
 
 ### İade istiyorum.
 
@@ -51,12 +53,12 @@ Cihazının iCloud ya da Google yedeği de kaydı taşıyabilir.
 
 ### Oyun verisi paylaşımını nasıl kapatırım?
 
-Künye → Bildirimler → **"Oyun verisi paylaş"** anahtarını kapat. Ne gönderildiği: [Gizlilik Politikası § 4](gizlilik/).
+Künye → Bildirimler → **"Oyun verisi paylaş"** anahtarını kapat. Ne gönderildiği: [Gizlilik Politikası § 4](../gizlilik/).
 
 ## Belgeler
 
-- [Gizlilik Politikası](gizlilik/) · [Privacy Policy](privacy/)
-- [Kullanım Şartları](sartlar/) · [Terms of Use](terms/)
+- [Gizlilik Politikası](../gizlilik/) · [Privacy Policy](../privacy/)
+- [Kullanım Şartları](../sartlar/) · [Terms of Use](../terms/)
 
 Yayıncı: App Store sürümü için Sema Şahin; Google Play sürümü için Raşit Şahin, Türkiye · <semasahin3527@gmail.com>
 
@@ -81,6 +83,6 @@ without any purchase.
 - **Refunds:** handled by Apple (reportaproblem.apple.com) or Google Play (order history).
 - **Turn off gameplay data:** Künye → Notifications → "Oyun verisi paylaş" (Share gameplay data).
 
-Documents: [Privacy Policy](privacy/) · [Terms of Use](terms/)
+Documents: [Privacy Policy](../privacy/) · [Terms of Use](../terms/)
 
 Publisher: Sema Şahin for the App Store version; Raşit Şahin for the Google Play version, Türkiye · <semasahin3527@gmail.com>

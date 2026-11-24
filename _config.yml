@@ -1,5 +1,16 @@
 # GitHub Pages ayarı (sahinrasit/ucbeyi, main dalı, kök). Kaynak oyun deposunda site/; yayın: scripts/dev/site_yayinla.sh
+# Ana sayfa (index.html) ve İngilizce sayfa (en/index.html) düz HTML'dir, Jekyll onlara dokunmaz. Belgeler (destek, gizlilik, sartlar,
+# privacy, terms) Markdown'dır ve _layouts/belge.html ile çizilir. Alan adı alınırsa: url ve baseurl değişir (docs/hukuk/README.md).
 title: "Uç Beyi: Osmanlı Strateji"
 description: "Destek, Gizlilik Politikası ve Kullanım Şartları"
 lang: tr
-theme: jekyll-theme-minimal
+url: "https://sahinrasit.github.io"
+baseurl: "/ucbeyi"
+markdown: kramdown
+exclude:
+  - README.md
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: belge

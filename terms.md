@@ -1,11 +1,12 @@
 ---
 title: Terms of Use
 permalink: /terms/
+lang: en
 ---
 
 # Terms of Use — Uç Beyi: Osmanlı Strateji
 
-[Türkçe](../sartlar/) · [Privacy Policy](../privacy/) · [Support](../#english)
+[Türkçe](../sartlar/) · [Privacy Policy](../privacy/) · [Support](../destek/#english)
 
 **Effective date:** 24 November 2026<br>
 **Publisher:** Sema Şahin for the App Store version; Raşit Şahin for the Google Play version, Türkiye · **Contact:** <semasahin3527@gmail.com>

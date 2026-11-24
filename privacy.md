@@ -1,11 +1,12 @@
 ---
 title: Privacy Policy
 permalink: /privacy/
+lang: en
 ---
 
 # Privacy Policy — Uç Beyi: Osmanlı Strateji
 
-[Türkçe](../gizlilik/) · [Terms of Use](../terms/) · [Support](../#english)
+[Türkçe](../gizlilik/) · [Terms of Use](../terms/) · [Support](../destek/#english)
 
 **Effective date:** 24 November 2026<br>
 **Publisher (data controller):** Sema Şahin for the App Store version; Raşit Şahin for the Google Play version, Türkiye<br>

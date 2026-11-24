@@ -5,7 +5,7 @@ permalink: /sartlar/
 
 # Kullanım Şartları — Uç Beyi: Osmanlı Strateji
 
-[English version](../terms/) · [Gizlilik Politikası](../gizlilik/) · [Destek](../)
+[English version](../terms/) · [Gizlilik Politikası](../gizlilik/) · [Destek](../destek/)
 
 **Yürürlük tarihi:** 24 Kasım 2026<br>
 **Yayıncı:** App Store sürümü için Sema Şahin; Google Play sürümü için Raşit Şahin, Türkiye · **İletişim:** <semasahin3527@gmail.com>

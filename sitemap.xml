@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sahinrasit.github.io/ucbeyi/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sahinrasit.github.io/ucbeyi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sahinrasit.github.io/ucbeyi/en/"/>
+  </url>
+  <url>
+    <loc>https://sahinrasit.github.io/ucbeyi/en/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sahinrasit.github.io/ucbeyi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sahinrasit.github.io/ucbeyi/en/"/>
+  </url>
+  <url><loc>https://sahinrasit.github.io/ucbeyi/destek/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://sahinrasit.github.io/ucbeyi/gizlilik/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://sahinrasit.github.io/ucbeyi/sartlar/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://sahinrasit.github.io/ucbeyi/privacy/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://sahinrasit.github.io/ucbeyi/terms/</loc><lastmod>2026-11-24</lastmod></url>
+</urlset>

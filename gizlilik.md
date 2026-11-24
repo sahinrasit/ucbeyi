@@ -5,7 +5,7 @@ permalink: /gizlilik/
 
 # Gizlilik Politikası — Uç Beyi: Osmanlı Strateji
 
-[English version](../privacy/) · [Kullanım Şartları](../sartlar/) · [Destek](../)
+[English version](../privacy/) · [Kullanım Şartları](../sartlar/) · [Destek](../destek/)
 
 **Yürürlük tarihi:** 24 Kasım 2026<br>
 **Yayıncı (veri sorumlusu):** App Store sürümü için Sema Şahin; Google Play sürümü için Raşit Şahin, Türkiye<br>

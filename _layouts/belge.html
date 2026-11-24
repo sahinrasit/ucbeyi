@@ -1,0 +1,91 @@
+<!doctype html>
+{%- assign en = false -%}{%- if page.lang == 'en' -%}{%- assign en = true -%}{%- endif -%}
+<html lang="{{ page.lang | default: site.lang }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{{ page.title }} — {{ site.title }}</title>
+<meta name="description" content="{{ page.description | default: site.description }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<meta name="theme-color" content="#150C07">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:title" content="{{ page.title }} — {{ site.title }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:image" content="{{ '/assets/og.jpg' | absolute_url }}">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicon-32.png' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/assets/apple-touch-icon.png' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
+</head>
+<body>
+<a class="skip" href="#icerik">{% if en %}Skip to content{% else %}İçeriğe geç{% endif %}</a>
+<header class="head">
+  <div class="wrap">
+    <a class="brand" href="{% if en %}{{ '/en/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}"><img src="{{ '/assets/favicon-32.png' | relative_url }}" srcset="{{ '/assets/apple-touch-icon.png' | relative_url }} 2x" alt="" width="34" height="34"><span><b>Uç Beyi</b><small>{% if en %}Ottoman Strategy{% else %}Osmanlı Strateji{% endif %}</small></span></a>
+    <nav class="nav" aria-label="{% if en %}Site{% else %}Site{% endif %}">
+      {%- if en %}
+      <a href="{{ '/en/' | relative_url }}">The game</a>
+      <a href="{{ '/destek/#english' | relative_url }}">Support</a>
+      <a href="{{ '/privacy/' | relative_url }}">Privacy</a>
+      <a href="{{ '/terms/' | relative_url }}">Terms</a>
+      {%- else %}
+      <a href="{{ '/' | relative_url }}">Oyun</a>
+      <a href="{{ '/destek/' | relative_url }}">Destek</a>
+      <a href="{{ '/gizlilik/' | relative_url }}">Gizlilik</a>
+      <a href="{{ '/sartlar/' | relative_url }}">Şartlar</a>
+      {%- endif %}
+    </nav>
+    {%- if en %}
+    <a class="lang" href="{{ '/' | relative_url }}" hreflang="tr" lang="tr">TR</a>
+    {%- else %}
+    <a class="lang" href="{{ '/en/' | relative_url }}" hreflang="en" lang="en">EN</a>
+    {%- endif %}
+    <details class="menu">
+      <summary aria-label="{% if en %}Menu{% else %}Menü{% endif %}"><span></span></summary>
+      <nav>
+        {%- if en %}
+        <a href="{{ '/en/' | relative_url }}">The game</a>
+        <a href="{{ '/destek/#english' | relative_url }}">Support</a>
+        <a href="{{ '/privacy/' | relative_url }}">Privacy Policy</a>
+        <a href="{{ '/terms/' | relative_url }}">Terms of Use</a>
+        {%- else %}
+        <a href="{{ '/' | relative_url }}">Oyun</a>
+        <a href="{{ '/destek/' | relative_url }}">Destek</a>
+        <a href="{{ '/gizlilik/' | relative_url }}">Gizlilik Politikası</a>
+        <a href="{{ '/sartlar/' | relative_url }}">Kullanım Şartları</a>
+        {%- endif %}
+      </nav>
+    </details>
+  </div>
+</header>
+<main id="icerik" class="wrap">
+  <div class="doc-hero"><svg class="orn" viewBox="0 0 180 22" aria-hidden="true"><path d="M0 11h64M116 11h64" stroke="currentColor" stroke-width="1.2"/><path d="M70 11l4.5-4.5L79 11l-4.5 4.5zM101 11l4.5-4.5L110 11l-4.5 4.5z" fill="currentColor"/><g transform="translate(90 11)" fill="none" stroke="currentColor" stroke-width="1.4"><rect x="-6.5" y="-6.5" width="13" height="13"/><rect x="-6.5" y="-6.5" width="13" height="13" transform="rotate(45)"/><circle r="2.2" fill="currentColor" stroke="none"/></g></svg></div>
+  <article class="doc parch">
+{{ content }}
+  </article>
+</main>
+<footer class="foot">
+  <div class="wrap cols">
+    <div>
+      <p><b>Uç Beyi: Osmanlı Strateji</b> · Devlet-i Aliyye</p>
+      <small>© 2026 · App Store: Sema Şahin · Google Play: Raşit Şahin · Türkiye</small>
+    </div>
+    <div>
+      <nav aria-label="{% if en %}Documents{% else %}Belgeler{% endif %}">
+        <a href="{{ '/' | relative_url }}">Ana sayfa</a>
+        <a href="{{ '/destek/' | relative_url }}">Destek</a>
+        <a href="{{ '/gizlilik/' | relative_url }}">Gizlilik Politikası</a>
+        <a href="{{ '/sartlar/' | relative_url }}">Kullanım Şartları</a>
+        <a href="{{ '/privacy/' | relative_url }}" lang="en">Privacy Policy</a>
+        <a href="{{ '/terms/' | relative_url }}" lang="en">Terms of Use</a>
+      </nav>
+    </div>
+    <div>
+      <p><a href="mailto:semasahin3527@gmail.com">semasahin3527@gmail.com</a></p>
+      <small>{% if en %}This site uses no cookies and does not track visitors.{% else %}Bu site çerez kullanmaz ve ziyaretçileri izlemez.{% endif %}</small>
+    </div>
+  </div>
+</footer>
+</body>
+</html>
